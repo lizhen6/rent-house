@@ -6,9 +6,10 @@
 #### 软件架构
   ####前端
   基于vue框架，选用vant框架，所涉及到的功能 微信生态的所有基本功能，如 查看房源，发布房源，娱乐生活等功能
-![首页](1230.png)
-![明细](220123221240.jpg)
-  
+![明细](https://user-images.githubusercontent.com/45191290/150683585-7b79c5ce-ad04-4b27-8d7c-460242c149d4.jpg)
+
+  ![首页](https://user-images.githubusercontent.com/45191290/150683603-562d73f1-9c2f-4251-bb54-b50b47000ee8.png)
+
     ####后端
   基于springBoot框架。所涉及功能 
     
@@ -31,7 +32,8 @@ java的节本打包运行
 #### 访问
 访问方式一：
 微信扫码
-![扫码体验](90_250b23466409d4cf7d2f9df8bd91d50d.png)
+![扫码体验](https://user-images.githubusercontent.com/45191290/150683620-819de146-b645-4409-8684-b3fd6a7cf940.png)
+
 ps：项目属于微信端公众号项目，请复制链接在微信端打开，浏览器不支持
 
 访问方式二：
