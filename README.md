@@ -32,9 +32,7 @@ java的节本打包运行
 #### 访问
 访问方式一：
 微信扫码
-![扫码体验](https://user-images.githubusercontent.com/45191290/150683620-819de146-b645-4409-8684-b3fd6a7cf940.png)
-
-ps：项目属于微信端公众号项目，请复制链接在微信端打开，浏览器不支持
+![扫码_搜索联合传播样式-标准色版](https://user-images.githubusercontent.com/45191290/155882191-d0ec2702-0b8a-433e-9d91-851f55b4c847.png)
 
 访问方式二：
 搜索微信公众号：不负韶华luck
